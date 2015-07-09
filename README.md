@@ -1,0 +1,2 @@
+# DaaraManager
+School Management Software 
